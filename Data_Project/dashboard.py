@@ -7,13 +7,13 @@ from sklearn.ensemble import RandomForestClassifier
 
 # ========== إعدادات الصفحة ==========
 st.set_page_config(
-    page_title="Bee Connect DME Dashboard",
+    page_title="DME Dashboard",
     page_icon="📊",
     layout="wide"
 )
 
 # ========== عنوان الصفحة ==========
-st.title("🔥 Bee Connect DME Dashboard")
+st.title("🔥DME Dashboard")
 st.markdown("---")
 
 # ========== رفع الملف ==========
